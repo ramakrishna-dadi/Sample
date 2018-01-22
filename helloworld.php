@@ -5,6 +5,7 @@ $a=1;
 $b=2;
 $c=$a+b; //Addition of two values.
 echo $c // Result..
+//Final
 ?>
 
 
