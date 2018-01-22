@@ -14,6 +14,9 @@ $a = "Satti";
 $b = "Rk";
 echo $a.$b;
 print $a.$b;
-print_r($a);
-//Last line
+
+echo "finally git pulled";
+
+>>>>>>> c3aac817dc063c8b1176b31e0b852309074d90c8
 ?>
+
