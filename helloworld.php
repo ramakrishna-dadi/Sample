@@ -6,6 +6,9 @@ $b=2;
 $c=$a+b; //Addition of two values.
 echo $c // Result..
 //Final
+$d=$a-$b;
+echo $d //Subtraction.
+
 
 $a = "Satti";
 $b = "Rk";
