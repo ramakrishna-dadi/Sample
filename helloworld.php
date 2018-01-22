@@ -12,4 +12,6 @@ $b = "Rk";
 echo $a.$b;
 print $a.$b;
 
+echo "finally git pulled";
+
 ?>
