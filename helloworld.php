@@ -14,5 +14,6 @@ $a = "Satti";
 $b = "Rk";
 echo $a.$b;
 print $a.$b;
-
+print_r($a);
+//Last line
 ?>
